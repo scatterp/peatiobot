@@ -1,3 +1,5 @@
+test
+
 [***REFUGEES WELCOME!***](http://www.refugeesaid.eu/rab-campaign/)
 
 [![Release](https://img.shields.io/github/release/ctubio/Krypto-trading-bot.svg)](https://github.com/ctubio/Krypto-trading-bot/releases)

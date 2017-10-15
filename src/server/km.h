@@ -111,10 +111,11 @@ namespace K {
            held;
     string currency;
     mWallet():
-      amount(0), held(0), currency("")
+      amount(10000), held(0), currency("")
     {};
     mWallet(double a, double h, string c):
-      amount(a), held(h), currency(c)
+      //amount(a), held(h), currency(c)
+    amount(10000), held(h), currency(c)
     {};
   };
   static void to_json(json& j, const mWallet& k) {
