@@ -21,7 +21,7 @@
     "angular2-highcharts": "^0.5.5",
     "babel-preset-babili": "0.1.4",
     "babel-preset-es2016": "^6.24.1",
-    "babelify": "^7.3.0",
+    "babelify": "^8.0.0",
     "browserify": "^14.4.0",
     "core-js": "^2.5.0",
     "es6-shim": "^0.35.3",
